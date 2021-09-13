@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm a developer! 
+[![Linkedin Badge](https://img.shields.io/badge/-danielmota-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-mota-melga%C3%A7o-9b8168164/)](https://www.linkedin.com/in/daniel-mota-melga%C3%A7o-9b8168164/)
 
-<!--
-**danielmotam/danielmotam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming languages:
+- 🚨 Javascript
+- 🧩 Html
+- 🛸 PHP
+- 🍃 Java
+- ☕ CSS
+- 🐣 Python
+- 🚨 C
+- 🧩 C++
+- 🛸 C#
+- 🍃 MySql
+- ☕ SQL
